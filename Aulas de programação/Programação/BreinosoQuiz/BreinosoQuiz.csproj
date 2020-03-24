@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3DF2CFA-7B43-4BCF-84C7-75E8338A22E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BreinosoQuiz</RootNamespace>
+    <AssemblyName>BreinosoQuiz</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmGameOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGameOver.Designer.cs">
+      <DependentUpon>FrmGameOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParabens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParabens.Designer.cs">
+      <DependentUpon>FrmParabens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao1.Designer.cs">
+      <DependentUpon>FrmQuestao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao10.Designer.cs">
+      <DependentUpon>FrmQuestao10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao11.Designer.cs">
+      <DependentUpon>FrmQuestao11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao12.Designer.cs">
+      <DependentUpon>FrmQuestao12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao13.Designer.cs">
+      <DependentUpon>FrmQuestao13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao14.Designer.cs">
+      <DependentUpon>FrmQuestao14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao2.Designer.cs">
+      <DependentUpon>FrmQuestao2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao3.Designer.cs">
+      <DependentUpon>FrmQuestao3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao4.Designer.cs">
+      <DependentUpon>FrmQuestao4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao5.Designer.cs">
+      <DependentUpon>FrmQuestao5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao6.Designer.cs">
+      <DependentUpon>FrmQuestao6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao7.Designer.cs">
+      <DependentUpon>FrmQuestao7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao8.Designer.cs">
+      <DependentUpon>FrmQuestao8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuestao9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuestao9.Designer.cs">
+      <DependentUpon>FrmQuestao9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmGameOver.resx">
+      <DependentUpon>FrmGameOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParabens.resx">
+      <DependentUpon>FrmParabens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao1.resx">
+      <DependentUpon>FrmQuestao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao10.resx">
+      <DependentUpon>FrmQuestao10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao11.resx">
+      <DependentUpon>FrmQuestao11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao12.resx">
+      <DependentUpon>FrmQuestao12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao13.resx">
+      <DependentUpon>FrmQuestao13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao14.resx">
+      <DependentUpon>FrmQuestao14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao2.resx">
+      <DependentUpon>FrmQuestao2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao3.resx">
+      <DependentUpon>FrmQuestao3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao4.resx">
+      <DependentUpon>FrmQuestao4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao5.resx">
+      <DependentUpon>FrmQuestao5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao6.resx">
+      <DependentUpon>FrmQuestao6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao7.resx">
+      <DependentUpon>FrmQuestao7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao8.resx">
+      <DependentUpon>FrmQuestao8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuestao9.resx">
+      <DependentUpon>FrmQuestao9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\438354.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1169993.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-text-retry-on-shot-note-grunge-paper-isolate-on-white-background-140318089.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sad-eyes-cute-puppy-dog-eyes-spaniel-pictures-pics.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

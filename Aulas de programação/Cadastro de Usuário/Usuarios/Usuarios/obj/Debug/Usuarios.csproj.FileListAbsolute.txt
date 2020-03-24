@@ -1,0 +1,11 @@
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.exe
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
+c:\users\breinoso\documents\visual studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.FrmCadUsuario.resources
+C:\Users\Breinoso\Documents\Visual Studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.FrmPrincipal.resources
+C:\Users\Breinoso\Documents\Visual Studio 2017\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.FrmList.resources

@@ -1,0 +1,27 @@
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe.config
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.pdb
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csprojResolveAssemblyReference.cache
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Form1.resources
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Properties.Resources.resources
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csproj.GenerateResource.Cache
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.exe
+c:\users\lab-01 pc-09\documents\visual studio 2015\Projects\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.pdb
+E:\Curso de Programação\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe.config
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.exe
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.pdb
+E:\Curso de Programação\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe
+E:\Curso de Programação\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.pdb
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csprojResolveAssemblyReference.cache
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Form1.resources
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Properties.Resources.resources
+E:\Curso de Programação\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csproj.GenerateResource.Cache
+E:\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe.config
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.exe
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.pdb
+E:\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.exe
+E:\FormCalculadora\FormCalculadora\bin\Debug\FormCalculadora.pdb
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csprojResolveAssemblyReference.cache
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Form1.resources
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.Properties.Resources.resources
+E:\FormCalculadora\FormCalculadora\obj\Debug\FormCalculadora.csproj.GenerateResource.Cache

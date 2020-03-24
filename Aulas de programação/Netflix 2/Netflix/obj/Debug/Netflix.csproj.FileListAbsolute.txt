@@ -1,0 +1,22 @@
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\bin\Debug\Netflix.pdb
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.FrmPrincipal.resources
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.FrmCadastro.resources
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.pdb
+C:\Users\Lab-01 PC-06\Desktop\Netflix\Netflix\obj\Debug\Netflix.Lista.resources
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.FrmPrincipal.resources
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.FrmCadastro.resources
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.Lista.resources
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\Breinoso\Desktop\Netflix\Netflix\obj\Debug\Netflix.pdb
+C:\Users\Breinoso\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\Users\Breinoso\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\Breinoso\Desktop\Netflix\Netflix\bin\Debug\Netflix.pdb

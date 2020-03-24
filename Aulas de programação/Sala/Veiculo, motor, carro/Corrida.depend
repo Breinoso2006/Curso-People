@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1488893713 source:c:\users\lab-01 pc-09\desktop\corrida\src\tmotor.cpp
+	"TMotor.h"
+	<iostream>
+
+1488893713 c:\users\lab-01 pc-09\desktop\corrida\include\tmotor.h
+	<string>
+
+1488894674 source:c:\users\lab-01 pc-09\desktop\corrida\main.cpp
+	<iostream>
+
+1488897280 source:c:\users\lab-01 pc-09\desktop\corrida\src\tveiculo.cpp
+	"TVeiculo.h"
+	<iostream>
+
+1488897280 c:\users\lab-01 pc-09\desktop\corrida\include\tveiculo.h
+	"TMotor.h"
+	<string>
+

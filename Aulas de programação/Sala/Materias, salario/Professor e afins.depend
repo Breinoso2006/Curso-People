@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1489001198 source:c:\users\lab-01 pc-09\desktop\professor e afins\main.cpp
+	<iostream>
+	"TProfessor.h"
+
+1489000880 source:c:\users\lab-01 pc-09\desktop\professor e afins\src\tmateria.cpp
+	"TMateria.h"
+	<iostream>
+	<string>
+
+1488999590 c:\users\lab-01 pc-09\desktop\professor e afins\include\tmateria.h
+	<string>
+
+1489001007 source:c:\users\lab-01 pc-09\desktop\professor e afins\src\tprofessor.cpp
+	"TProfessor.h"
+	<string>
+	"TMateria.h"
+	<iostream>
+
+1489000890 c:\users\lab-01 pc-09\desktop\professor e afins\include\tprofessor.h
+	"TMateria.h"
+	<string>
+

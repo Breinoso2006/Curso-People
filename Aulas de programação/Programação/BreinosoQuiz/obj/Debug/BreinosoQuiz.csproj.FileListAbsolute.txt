@@ -1,0 +1,62 @@
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe.config
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\bin\Debug\BreinosoQuiz.pdb
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.csprojResolveAssemblyReference.cache
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmPrincipal.resources
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.Properties.Resources.resources
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.csproj.GenerateResource.Cache
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.exe
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.pdb
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao1.resources
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmGameOver.resources
+c:\users\luccas-inspiron\documents\visual studio 2015\Projects\BreinosoQuiz\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao3.resources
+G:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe.config
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.exe
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.pdb
+G:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe
+G:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.pdb
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.csprojResolveAssemblyReference.cache
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmGameOver.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmPrincipal.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao1.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao3.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.Properties.Resources.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.csproj.GenerateResource.Cache
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao2.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao4.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao5.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao6.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao7.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao8.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao9.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao10.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao11.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao12.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao13.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao14.resources
+G:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmParabens.resources
+F:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe.config
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.exe
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.pdb
+F:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.exe
+F:\Programação\BreinosoQuiz\bin\Debug\BreinosoQuiz.pdb
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.csprojResolveAssemblyReference.cache
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmGameOver.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmParabens.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmPrincipal.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao1.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao10.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao11.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao12.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao13.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao14.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao2.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao3.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao4.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao5.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao6.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao7.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao8.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.FrmQuestao9.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.Properties.Resources.resources
+F:\Programação\BreinosoQuiz\obj\Debug\BreinosoQuiz.csproj.GenerateResource.Cache
